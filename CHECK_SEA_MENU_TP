@@ -2,13 +2,13 @@ local placeId = game.PlaceId
 
 if placeId == 2753915549 then
     -- Sea 1
-    loadstring(game:HttpGet("_"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_MENU_TP_SEA1/refs/heads/main/TICKEN_MENU_TP_SEA1"))()
 elseif placeId == 4442272183 then
     -- Sea 2
-    loadstring(game:HttpGet("_"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/WARN/refs/heads/main/WARN"))()
 elseif placeId == 7449423635 then
     -- Sea 3
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/MENU_TP_SEA3/refs/heads/main/MENU_TP_SEA3"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_MENU_TP_SEA3/refs/heads/main/TICKEN_MENU_TP_SEA3"))()
 else
     warn("Không phải ở Sea 1, Sea 2 hoặc Sea 3. Script không chạy.")
 end
