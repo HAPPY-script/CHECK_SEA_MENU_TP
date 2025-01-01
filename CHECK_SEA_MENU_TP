@@ -5,7 +5,7 @@ if placeId == 2753915549 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_MENU_TP_SEA1/refs/heads/main/TICKEN_MENU_TP_SEA1"))()
 elseif placeId == 4442272183 then
     -- Sea 2
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/WARN/refs/heads/main/WARN"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_MENU_TP_SEA2/refs/heads/main/TICKEN_MENU_TP_SEA2"))()
 elseif placeId == 7449423635 then
     -- Sea 3
     loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_MENU_TP_SEA3/refs/heads/main/TICKEN_MENU_TP_SEA3"))()
